@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 --> 
 Hello, I am an undergraduate student majoring in Computer Science. (2021 - 2025)
 
-Here you will find a collection of projects and programs that I have accomplished. Mostly school projects.
+Here you will find a collection of projects and programs that I have finished. Mostly school projects.
 
 - 🔭 I’m currently using C++ and Python 3
 
