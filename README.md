@@ -24,5 +24,5 @@ Here you will find a collection of projects and programs that I have finished. M
 
 - 💬 I’m looking for internships to gain professional experiences.
 
-- 📫 How to reach me: neilh1334@gmail.com
+- 📫 How to reach me: neilh1334@gmail.com or neilh200328@gmail.com or jhuang028@citymail.cuny.edu
 
