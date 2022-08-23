@@ -18,7 +18,7 @@ Hello, I am an undergraduate student majoring in Computer Science. (2021 - 2025)
 
 Here you will find a collection of projects and programs that I have finished. Mostly school projects.
 
-- 🔭 I’m currently using C++ and Python 3
+- 🔭 I’m currently using C++, Python 3, and Java
 
 - ✨ Course Taken: Data Structures, Intro to Computer Science, Discrete Mathematics, Calculus 1, Calculus 2, Calculus 3, General Chemistry 1 & 2.
 
