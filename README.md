@@ -22,7 +22,7 @@ Here you will find a collection of projects and programs that I have finished. M
 
 - ✨ Course Taken: Data Structures, Intro to Computer Science, Discrete Mathematics, Calculus 1, Calculus 2, Calculus 3, General Chemistry 1 & 2.
 
-- 🌱 I’m currently learning Algorithms, Software Development, Probability and Statistics
+- 🌱 I’m currently learning Algorithms, Software Development, Probability and Statistics, and Linear Algebra
 
 - 💬 I’m looking for internships to gain professional experiences.
 
