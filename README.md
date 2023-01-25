@@ -20,9 +20,7 @@ Here you will find a collection of projects and programs that I have finished. M
 
 - 🔭 I’m currently using C++ and Python 3
 
-- ✨ Course Taken: Data Structures, Intro to Computer Science, Discrete Mathematics, Calculus 1, Calculus 2, Calculus 3, General Chemistry 1 & 2.
-
-- 🌱 I’m currently learning Algorithms, Software Development, Probability and Statistics, and Linear Algebra
+- ✨ Course Taken: Data Structures, Algorithms, Software Development
 
 - 💬 I’m looking for internships to gain professional experiences.
 
@@ -32,4 +30,4 @@ Here you will find a collection of projects and programs that I have finished. M
 
 {\\__/}  
 ( • . •)  
-/ >♥️ follow me plz~
+/ >♥️ 
