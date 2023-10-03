@@ -26,7 +26,6 @@ Here you will find a collection of projects and programs that I have finished. M
 
 - 📫 How to reach me: neilh200328@gmail.com or jhuang028@citymail.cuny.edu
 
-- 👯 If you like my codes, please follow and recruit me! ⸜(｡˃ ᵕ ˂ )⸝
 
 {\\__/}  
 ( • . •)  
