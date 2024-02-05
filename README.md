@@ -16,17 +16,10 @@ Here are some ideas to get you started:
 --> 
 Hello, I am an undergraduate student majoring in Computer Science. (2021 - 2025)
 
-Here you will find a collection of projects and programs that I have finished. Mostly school projects.
+Here you will find a collection of projects and programs that I have finished.
 
-- 🔭 I’m currently using C++ and Python 3
+- 🔭 Python3, C/C++, JavaScript, SQL, HTML, CSS
 
-- ✨ Course Taken: Data Structures, Algorithms, Software Engineering
-
-- 💬 I’m looking for internships to gain professional experiences.
+- 💬 I’m looking for internships to gain professional experience.
 
 - 📫 How to reach me: neilh200328@gmail.com or jhuang028@citymail.cuny.edu
-
-
-{\\__/}  
-( • . •)  
-/ >♥️ 
