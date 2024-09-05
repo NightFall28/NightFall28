@@ -14,9 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 --> 
-Hello, I am an undergraduate student majoring in Computer Science. (2021 - 2025)
-
-Here you will find a collection of projects and programs that I have finished.
+Undergraduate student majoring in Computer Science. (2021 - 2025)
 
 - 🔭 Python3, C/C++, JavaScript, SQL, HTML, CSS
 
