@@ -18,6 +18,6 @@ Undergraduate student majoring in Computer Science. (2021 - 2025)
 
 - 🔭 Python3, C/C++, JavaScript, SQL, HTML, CSS
 
-- 💬 I’m looking for internships to gain professional experience.
+- 💬 I’m looking for internships/full time jobs.
 
 - 📫 How to reach me: neilh200328@gmail.com or jhuang028@citymail.cuny.edu
