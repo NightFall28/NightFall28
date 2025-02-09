@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 --> 
 Undergraduate student majoring in Computer Science. (2021 - 2025)
 
-- 🔭 Python3, C/C++, TypeScript, JavaScript, SQL, HTML, CSS
+- 🔭 Python, C/C++, TypeScript, JavaScript, SQL, HTML, CSS
 
 - 💬 I’m looking for internships/full time jobs.
 
